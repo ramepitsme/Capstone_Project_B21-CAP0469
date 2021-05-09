@@ -1,11 +1,11 @@
 # Capstone_Project_B21-CAP0469
 
-Selected Theme: Public Services Transformation
+<b>Selected Theme </b>: Public Services Transformation
 
-Title of the Project: Sharp Objects and Firearms Detection Using Image Classification to Prevent
+<b>Title of the Project </b>: Sharp Objects and Firearms Detection Using Image Classification to Prevent
 Crimes
 
-Executive Summary:
+<b>Executive Summary </b>:
 According to Indonesian Central Bureau of Statistics, there are approximately 1000 cases of
 homicide, about 200 cases of robbery using firearms and another 800 using sharp objects each
 year from 2017 to 2019. This calls for a preventive measure that can stop the perpetrator as
